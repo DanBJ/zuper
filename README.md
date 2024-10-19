@@ -18,3 +18,16 @@ Pour télécharger le programme, il est possible d'utiliser le programme GIT. Da
 
 - mkdir <nom_du_dossier>
 - git clone https://github.com/DanBJ/zuper.git
+
+
+## Modules Python nécessaire :
+
+- numpy
+- matplotlib
+- scipy
+- pandas
+- geopandas
+- tqdm
+- shapely
+- geone
+- ifm (ou ifm311 avec sys)
