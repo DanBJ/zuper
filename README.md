@@ -5,3 +5,12 @@ ZuPer est un module Python contenant plusieurs outils pour la délimitation des 
 - Des méthodes de délimitations
 - Des méthodes de calculs de coefficients pour la comparaison
 - Deux fonctions : l'une pour un cas d'étude déterministe, l'autre pour un cas d'étude stochastique
+
+
+## test
+
+### test 
+
+#### test
+
+##### test
