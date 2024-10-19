@@ -31,3 +31,13 @@ Pour télécharger le programme, il est possible d'utiliser le programme GIT. Da
 - shapely
 - geone
 - ifm (ou ifm311 avec sys)
+
+
+## License :
+
+Voir le fichier "License.md"
+
+
+## Auteurs :
+
+ZuPer a été développé par Daniel Borel-Jaquet
