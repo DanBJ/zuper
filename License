@@ -1,1 +1,16 @@
 # LICENSE
+Copyrithe (C) 2024 - Université de Neuchâtel
+
+Préambule :
+
+ZuPer est un module Python crée spécialement pour la délimitation des aires d'alimentation, dans le cadre de la protection 
+des eaux souterraines. Il contient plusieurs méthodes de délimitation (méthode standard, méthode numérique, solutions 
+analytiques, méthode basique). En plus, la quantification des coefficients de comparaison (efficacité et surface) sont 
+aussi possible. L'étude peut se faire dans un cadre déterministe ou un cadre stochastique.
+
+
+Permission :
+
+Ce module Python est un logiciel open-source et peut être utilisé par tout le monde. Cependant, comme il utilise plusieurs
+autres module, il est préférable de se référer aux licenses de chacun pour éviter tout problème de copyrigth en se référant
+à chacune des licenses.
