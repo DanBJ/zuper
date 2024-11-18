@@ -1,0 +1,13 @@
+######################################################
+# Command to tape in the anaconda prompt application #
+######################################################
+
+conda create -n sig
+y
+conda activate sig
+conda install geopandas -c conda-forge
+y
+conda install jupyter 
+y
+pip install geocube
+jupyter notebook
