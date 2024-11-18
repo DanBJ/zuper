@@ -14,7 +14,7 @@ Pour mieux comprendre le programme informatique ZuPer, vous pouvez retrouver des
 
 ## Installation provenant du "Github repository" :
 
-Pour télécharger le programme, il est possible d'utiliser le programme GIT. Dans le terminal du programme GIT, tapez :
+Pour télécharger le programme informatique ZuPer, il est nécessaire d'utiliser le programme Git. Dans le terminal du programme Git, tapez :
 
 - mkdir <nom_du_dossier>
 - git clone https://github.com/DanBJ/zuper.git
