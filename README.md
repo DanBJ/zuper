@@ -22,7 +22,7 @@ Pour télécharger le programme, il est possible d'utiliser le programme GIT. Da
 
 ## Modules Python nécessaire :
 
-La liste des modules Python nécessaire sont retrouvables dans le fichier Module. Il contient l'ensemble des modules à utiliser dans un environnement Anaconda.
+La liste des modules Python nécessaire sont retrouvables dans le fichier "Modules". Il contient l'ensemble des modules à utiliser dans un environnement Anaconda.
 
 
 ## License :
