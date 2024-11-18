@@ -9,7 +9,7 @@ ZuPer est un module Python contenant plusieurs outils pour la délimitation des 
 
 ## Documentation du module, exemples et références :
 
-...
+Pour mieux comprendre le programme informatique ZuPer, vous pouvez retrouver des exemples préfais dans le dossier "example" Il contient tout un tas d'exemple de notebook sous format markdown et code pour expliquer plus en détail chaque partie du programme.
 
 
 ## Installation provenant du "Github repository" :
