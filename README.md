@@ -16,6 +16,7 @@ Pour mieux comprendre le programme informatique ZuPer, vous pouvez retrouver des
 
 Pour télécharger le programme informatique ZuPer, il est nécessaire d'utiliser le programme Git Bash. Dans le terminal du programme Git, tapez :
 
+- Choisir préalablement l'emplacement pour stocker le dossier complet
 - mkdir <nom_du_dossier>
 - git clone https://github.com/DanBJ/zuper.git
 
