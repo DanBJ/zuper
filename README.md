@@ -22,15 +22,7 @@ Pour télécharger le programme, il est possible d'utiliser le programme GIT. Da
 
 ## Modules Python nécessaire :
 
-- numpy
-- matplotlib
-- scipy
-- pandas
-- geopandas
-- tqdm
-- shapely
-- geone
-- ifm (ou ifm311 avec sys)
+La liste des modules Python nécessaire sont retrouvables dans le fichier Module. Il contient l'ensemble des modules à utiliser dans un environnement Anaconda.
 
 
 ## License :
