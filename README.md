@@ -27,7 +27,7 @@ La liste des modules Python nécessaire sont retrouvables dans le fichier Module
 
 ## License :
 
-Voir le fichier "License.md"
+La license du programme ZuPer est retrouvable dans le fichier "License.md".
 
 
 ## Auteurs :
