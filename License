@@ -14,4 +14,8 @@ Permission :
 
 Ce module Python est un logiciel open-source et peut être utilisé par tout le monde. Cependant, comme il utilise plusieurs
 autres module, il est préférable de se référer aux licenses de chacun pour éviter tout problème de copyrigth en se référant
-à chacune des licenses.
+à chacune des licenses. Ce module est utilisable à des fins privés et non-commerciale. Il peut être utiliser dans des projets
+de délimitation des aires d'alimentation, tant que nous retrouvons la citation de référence de l'auteur et du programme
+apparaît. Le programme peut être améliorer par tout le monde, mais les modifications doivent être renvoyé à l'auteur pour
+améliorer et ajouter ces modifications dans le programme pour qu'il soit le plus complet possible, ceci pour encourager
+
