@@ -26,9 +26,9 @@ Pour télécharger le programme informatique ZuPer, il est nécessaire d'utilise
 La liste des modules Python nécessaire sont retrouvables dans le dossier "Modules". Il contient un fichier "Modules_for_environment" qui liste l'ensemble des modules Python à utiliser dans un environnement Anaconda, et un autre fichier "Commands_to_create_environment" qui lui donne les commandes à entrer dans l'invite de commande de Anaconda pour créer l'environnement de développement.
 
 
-## License :
+## Licence :
 
-La license du programme ZuPer est retrouvable dans le fichier "License.md".
+La licence du programme ZuPer est retrouvable dans le fichier "License.md".
 
 
 ## Auteurs :
