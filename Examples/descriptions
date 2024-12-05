@@ -1,1 +1,20 @@
-Pour ceci ...
+Ce document propose une présentation des exemples que ce dossier contient. Il se divise en plusieurs parties :
+
+1. Les bases pour créer l'objet Python ZuPer
+
+2. La liste des instances de variables
+
+3. Les méthodes de reçu, d'obtention et de manipulation des données pour les calculs
+
+4. Les différentes méthodes de délimitation des aires d'alimentation
+
+5. Les coefficients pour la comparaison des résultats
+
+6. La délimitation des lignes de courants avec le modèle numérique
+
+7. Les méthodes probabilistes pour les simulations aléatoires
+
+8. Le calcul déterministe d'une aire d'alimentation
+
+9. Le calcul stochastique d'une aire d'alimentation
+
