@@ -7,7 +7,7 @@ ZuPer est un module Python contenant plusieurs outils pour la délimitation des 
 - Deux fonctions principales : l'une pour un cas d'étude déterministe, l'autre pour un cas d'étude stochastique
 
 
-## Documentation du module, exemples et références :
+## Documentation du module et exemples :
 
 Pour mieux comprendre le programme informatique ZuPer, vous pouvez retrouver des exemples préfais dans le dossier "example" Il contient tout un tas d'exemple de notebook sous format markdown et code pour expliquer plus en détail chaque partie du programme.
 
@@ -24,6 +24,13 @@ Pour télécharger le programme informatique ZuPer, il est nécessaire d'utilise
 ## Modules Python nécessaire :
 
 La liste des modules Python nécessaire sont retrouvables dans le dossier "Modules". Il contient un fichier "Modules_for_environment" qui liste l'ensemble des modules Python à utiliser dans un environnement Anaconda, et un autre fichier "Commands_to_create_environment" qui lui donne les commandes à entrer dans l'invite de commande de Anaconda pour créer l'environnement de développement.
+
+
+## Références utilisées :
+
+1. [https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/publications/publications-eaux/dimensionnement-aires-alimentation-zu.html]
+
+2. [https://infoscience.epfl.ch/handle/20.500.14299/18139]
 
 
 ## Licence :
