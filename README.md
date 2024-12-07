@@ -26,11 +26,11 @@ Pour télécharger le programme informatique ZuPer, il est nécessaire d'utilise
 La liste des modules Python nécessaire sont retrouvables dans le dossier "Modules". Il contient un fichier "Modules_for_environment" qui liste l'ensemble des modules Python à utiliser dans un environnement Anaconda, et un autre fichier "Commands_to_create_environment" qui lui donne les commandes à entrer dans l'invite de commande de Anaconda pour créer l'environnement de développement.
 
 
-## Références utilisées :
+## Références et documentations sur les aires d'alimentation :
 
-1. [link](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/publications/publications-eaux/dimensionnement-aires-alimentation-zu.html)
+1. Office fédéral de l'environnement OFEV, 2005, [link](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/publications/publications-eaux/dimensionnement-aires-alimentation-zu.html)
 
-2. [link](https://infoscience.epfl.ch/handle/20.500.14299/18139)
+2. Bussard, T., Tacher, L., Parriaux, A., 2004, [link](https://infoscience.epfl.ch/handle/20.500.14299/18139)
 
 
 ## Licence :
