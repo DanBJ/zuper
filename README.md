@@ -28,9 +28,9 @@ La liste des modules Python nécessaire sont retrouvables dans le dossier "Modul
 
 ## Références et documentations sur les aires d'alimentation :
 
-1. Office fédéral de l'environnement OFEV, 2005, [link](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/publications/publications-eaux/dimensionnement-aires-alimentation-zu.html)
+1. Dimensionnement des aires d'alimentation Zu - Office fédéral de l'environnement OFEV (2005), [link](https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/publications/publications-eaux/dimensionnement-aires-alimentation-zu.html)
 
-2. Bussard, T., Tacher, L., Parriaux, A., 2004, [link](https://infoscience.epfl.ch/handle/20.500.14299/18139)
+2. Dimensionnement des aires d'alimentation Zu. Document de base - Bussard, T., Tacher, L., Parriaux, A. (2004), [link](https://infoscience.epfl.ch/handle/20.500.14299/18139)
 
 
 ## Licence :
