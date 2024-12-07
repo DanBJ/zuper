@@ -28,9 +28,9 @@ La liste des modules Python nécessaire sont retrouvables dans le dossier "Modul
 
 ## Références utilisées :
 
-1. [https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/publications/publications-eaux/dimensionnement-aires-alimentation-zu.html]
+1. (https://www.bafu.admin.ch/bafu/fr/home/themes/eaux/publications/publications-eaux/dimensionnement-aires-alimentation-zu.html)
 
-2. [https://infoscience.epfl.ch/handle/20.500.14299/18139]
+2. (https://infoscience.epfl.ch/handle/20.500.14299/18139)
 
 
 ## Licence :
