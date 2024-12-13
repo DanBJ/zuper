@@ -40,4 +40,4 @@ La licence du programme ZuPer est retrouvable dans le fichier "License.md".
 
 ## Auteurs :
 
-ZuPer a été développé par Daniel Borel-Jaquet
+ZuPer a été développé par Daniel Borel-Jaquet.
