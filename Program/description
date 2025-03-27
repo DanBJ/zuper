@@ -1,1 +1,5 @@
-testtesttest
+Le programme zuper.py est le fichier Python contenant le code du programme informatique ZuPer. Il permettra
+alors de délimiter les aires d'alimentation selon les conditions que l'on souhaite.
+
+Pour de plus amples informations sur le programme, il existe des fichiers de type Jupiter-Notebook
+comprenant des exemples de code permettant de mieux comprendre son fonctionnement (voir dossier "Examples").
